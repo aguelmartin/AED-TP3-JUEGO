@@ -1,0 +1,5 @@
+Juego de preguntas y respuestas, eliga la categoria:
+1. Geografia
+2. Matematica
+3. Historia
+4. Salir
